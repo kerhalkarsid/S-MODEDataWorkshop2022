@@ -1,0 +1,7 @@
+Requirement already satisfied: podaac-data-subscriber in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (1.11.0)
+Requirement already satisfied: tenacity<9.0.0,>=8.0.1 in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (from podaac-data-subscriber) (8.1.0)
+Requirement already satisfied: requests<3.0.0,>=2.27.1 in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (from podaac-data-subscriber) (2.27.1)
+Requirement already satisfied: certifi>=2017.4.17 in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (from requests<3.0.0,>=2.27.1->podaac-data-subscriber) (2022.6.15)
+Requirement already satisfied: idna<4,>=2.5 in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (from requests<3.0.0,>=2.27.1->podaac-data-subscriber) (3.3)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (from requests<3.0.0,>=2.27.1->podaac-data-subscriber) (1.26.8)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /opt/anaconda3/envs/sid_phd_current/lib/python3.7/site-packages (from requests<3.0.0,>=2.27.1->podaac-data-subscriber) (2.0.11)

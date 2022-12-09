@@ -1,0 +1,1 @@
+E. Rodriguez, A. Wineteer, T. Gal, D. Perkovic-Martin, H. Torres, G. Gunther. 2022. S-MODE DopplerScatt Level 2 ocean winds currents Version 1. Ver. 1. PO.DAAC, CA, USA. Dataset accessed 2022-12-01 at https://doi.org/10.5067/SMODE-DSCT2
